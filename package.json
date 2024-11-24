@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ranggadarmajati/react-native-geocoder-osm.git"
+    "url": "git+https://github.com/amohsen01/react-native-geocoder-osm.git"
   },
   "keywords": [
     "react-native",
@@ -18,7 +18,7 @@
   "author": "Rangga Darmajati <rangga.android69@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ranggadarmajati/react-native-geocoder-osm/issues"
+    "url": "https://github.com/amohsen01/react-native-geocoder-osm/issues"
   },
-  "homepage": "https://github.com/ranggadarmajati/react-native-geocoder-osm#readme"
+  "homepage": "https://github.com/amohsen01/react-native-geocoder-osm#readme"
 }
